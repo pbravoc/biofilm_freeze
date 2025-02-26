@@ -1,0 +1,4 @@
+*.arrow
+*.jld2
+data/vertical_growth_dynamics
+vgd_database.csv
